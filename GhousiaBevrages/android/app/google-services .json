@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1036831535126",
+    "project_id": "bevrages-88bd5",
+    "storage_bucket": "bevrages-88bd5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036831535126:android:4a46e70456044f413f4537",
+        "android_client_info": {
+          "package_name": "com.GhousiaBevrages.bevrages"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK_a4bJ_YDRAiCJRSKQPD3sZd567NxHoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
