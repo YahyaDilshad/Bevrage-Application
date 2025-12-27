@@ -4,7 +4,7 @@ import mongoose from "mongoose";
 import multer from "multer";
 import Brand from "../models/brand.model.js";
 import Product from "../models/product.model.js";
-import { uploadToCloudinary } from "../config/publito.js";
+import { uploadToCloudinary } from "../config/Cloudinary.js";
 
 const upload = multer({ storage: multer.memoryStorage() });
 

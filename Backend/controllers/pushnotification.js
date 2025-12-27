@@ -9,7 +9,7 @@ import {
 } from "../config/firebaseconfig.js";
 import NotificationToken from "../models/NotificationToken.model.js";
 import {markTokenInactive} from "./deviceController.js"
-import { sendAdminNotification } from "./adminnotification.js";
+
 /**
  * Helpers
  */

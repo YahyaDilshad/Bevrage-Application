@@ -1,7 +1,7 @@
 import express from "express";
 import multer from "multer";
 import Product from "../models/product.model.js";
-import { uploadToCloudinary } from "../config/publito.js";
+import { uploadToCloudinary } from "../config/Cloudinary.js";
 import mongoose from "mongoose";
 
 const router = express.Router();
