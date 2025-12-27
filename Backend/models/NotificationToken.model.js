@@ -1,5 +1,5 @@
 // models/Notification.model.js
-const mongoose = require('mongoose');
+import mongoose from "mongoose";
 
 const notificationSchema = new mongoose.Schema({
     // User Reference (Required - aapke code mein userId hai)
